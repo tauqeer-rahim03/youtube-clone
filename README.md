@@ -19,4 +19,5 @@ This is a simple YouTube homepage clone, built using HTML and CSS. It was one of
 - CSS – Styling & layout
 
 🤝 Contributions
+
 This project was made for learning purposes, but feel free to check it out and use it for inspiration!
